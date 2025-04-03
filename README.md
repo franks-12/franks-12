@@ -2,8 +2,8 @@ I'm an ex film technician :movie_camera: turned data analyst with an interest in
 
 - 🌱 I’m currently learning: Python :snake: and would like to start C++ and Java.
 
-- 👯 I’m looking to collaborate on **anything and everything!**
-- 🤔 I’m looking for help with **web development advice**
+- 👯 I’m looking to collaborate on: **anything and everything!**
+- 🤔 I’m looking for help with: **web development advice**
 - 💬 Ask me about **my dog**
 - 📫 How to reach me: hello.frankiemorley@outlook.com 
 - 😄 Pronouns: ***she/her***
