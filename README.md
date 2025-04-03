@@ -1,6 +1,6 @@
 I'm an ex film technician :movie_camera: turned data analyst with an interest in programming.
 
-- 🌱 I’m currently learning: Python :snake: and would like to start C++ and Java.
+- 🌱 I’m currently learning: Python :snake:, SQL, and would like to start C++ and Java.
 
 - 👯 I’m looking to collaborate on: **anything and everything!**
 - 💬 Ask me about: **my dog.**
